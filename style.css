@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+h2{
+    font-size: 40px;
+    font-weight: 180;
+}
+h3{
+    font-size: 25px;
+    font-weight: 150;
+}
+p{
+    color: gray;
+}
+.Tomato-highlight{
+    color: tomato;
+}
+.half-width-large{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-bottom: 5%;
+}
+.half-width-child{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width-large img{
+    width: 75%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.Hire-Button{
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 15px 20px;
+    border-radius: 5px;
+    color:ghostwhite;
+    font-weight: 700;
+}
+
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+.pocket{
+    width: 20%;
+    height: 450px;
+    display: inline-block;
+    background-color: white;
+    box-shadow: 2px 2px 20px black;
+    border-radius: 5px; 
+    margin-left: 5.5%;
+    margin-right: 5%;
+    align-content: center;
+    padding: 10px 10px 10px;
+}
+.image img{
+ width: 100%;
+ border-top-right-radius: 5px;
+ border-top-left-radius: 5px;
+}
+.name{
+    text-align: center;
+    padding: 10px;
+ 
+}
+.exp{
+    padding: 3px;
+    text-align: center;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.work-ex{
+    display:inline-block;
+    align-content: center;
+    margin-left: 20px;
+}
+#latest{
+    color:tomato;
+}
+.last img{
+    width: 50%;
+    margin-left: 25px;
+    margin-left: 25%;
+    margin-top: 300px;
+}
+.mail{
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 15px 20px;
+    border-radius: 5px;
+    color:ghostwhite;
+    font-weight: 700;
+    margin-left: 55%;
+    margin-right: 35%;
+}
+ul{
+    width:auto;
+    float: right;
+    margin-top: 8px;
+}
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+a{
+    text-align:left ;
+    color: black;
+    text-decoration: none;
+}
+.Menu{
+    height: 2px;
+    overflow: hidden;
+}
